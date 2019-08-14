@@ -34,6 +34,7 @@ function App() {
       <button type="button" onClick={handleAdd}>
         Adicionar
       </button>
+      <br />
       <strong>você tem {techSize} tecnologias</strong>
     </>
   );
